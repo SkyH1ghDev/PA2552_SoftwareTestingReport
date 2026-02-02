@@ -1,5 +1,9 @@
 \documentclass{article}
 \usepackage{hyperref}
+\usepackage{array}
+\usepackage{booktabs, caption}
+\usepackage[flushleft]{threeparttable}
+\usepackage{float}
 
 \bibliographystyle{IEEEtran}
 
@@ -56,15 +60,37 @@ on keywords like "agile testing", "lean testing", "software development", "game 
 
 Lean testing is based on principles that closely align to the commonly known principles and 
 values of agile and lean where the purpose is to maximise efficiency, adapt to change and minimise
-waste. The goals of lean testing according to Jain \cite{testsigmaLeanTesting}, can be reduced to:
+waste \cite{testsigmaLeanTesting}. In addition to this, a core perspective that is a result of the lean way 
+of thinking is the idea that the value of the product along with customer satisfaction should be
+the central focus \cite{testsigmaLeanTesting}
 
-\begin{enumerate}
-	\item Value Delivery
-	\item Waste Reduction
-	\item Efficiency
-	\item Continuous Improvement
-	\item Customer Satisfaction
-\end{enumerate}
+\begin{table}[H]
+	\caption{Lean Testing Principles}
+	\centering
+	\begin{tabular}{ | m{12em} | } 
+		\hline
+		Efficiency / Effectiveness \\
+		Minimisation \\
+		Test data generation \\
+		Execution \\
+		Maintenance \\
+		Values (-illities) \\
+		Purpose \\
+		Automation \\
+		\hline
+	\end{tabular}
+	\begin{tablenotes}
+		\small
+		\item Table 1: Tabularised form of the reinterpreted lean testing principles outlined in the PowerPoint slide 9 written by Alégroth et al. \cite{PowerPoint}
+	\end{tablenotes}
+\end{table}
+
+A three-way case-study between waterfall, agile and agile with dynamic QC has been carried out that compared the efficacy
+of testing within these methodologies \cite{DynamicQC}. The method Tommy et al. employed in their research yielded a result
+where the method of doing tests at the end of a production cycle (waterfall) generated a detected defect count of slightly above
+twenty. In contrast, agile and agile with dynamic QC reached counts of slightly below eighty and around a hundred and ten respectively.
+In addition to this the test case count is around one hundred for waterfall, one thousand two hundred for agile and nine hundred
+for agile with dynamic QC \cite{DynamicQC}.
 
 \section{Analysis}
 

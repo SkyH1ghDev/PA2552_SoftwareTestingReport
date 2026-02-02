@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.1.30)  2 FEB 2026 20:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.1.30)  2 FEB 2026 22:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -126,63 +126,131 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip51
+) (/opt/miktex/texmfs/install/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box53
+\extrarowheight=\dimen154
+\NC@list=\toks18
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box54
+) (/home/skyh1ghdev/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen155
+\lightrulewidth=\dimen156
+\cmidrulewidth=\dimen157
+\belowrulesep=\dimen158
+\belowbottomsep=\dimen159
+\aboverulesep=\dimen160
+\abovetopsep=\dimen161
+\cmidrulesep=\dimen162
+\cmidrulekern=\dimen163
+\defaultaddspace=\dimen164
+\@cmidla=\count295
+\@cmidlb=\count296
+\@aboverulesep=\dimen165
+\@belowrulesep=\dimen166
+\@thisruleclass=\count297
+\@lastruleclass=\count298
+\@thisrulewidth=\dimen167
+) (/home/skyh1ghdev/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/home/skyh1ghdev/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen168
+\captionmargin=\dimen169
+\caption@leftmargin=\dimen170
+\caption@rightmargin=\dimen171
+\caption@width=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count299
+\c@continuedfloat=\count300
+Package caption Info: hyperref package is loaded.
+) (/home/skyh1ghdev/.miktex/texmfs/install/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box55
+) (/home/skyh1ghdev/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count301
+\float@exts=\toks19
+\float@box=\box56
+\@float@everytoks=\toks20
+\@floatcapt=\box57
 ) (/opt/miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
+\l__color_backend_stack_int=\count302
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-Package hyperref Info: Link coloring OFF on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+Package hyperref Info: Link coloring OFF on input line 21.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 20.
+(Font)              <12> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
+(Font)              <8> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
+(Font)              <6> on input line 24.
  [1
 
 {/home/skyh1ghdev/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (10.02852pt too wide) in paragraph at lines 33--37
+Overfull \hbox (10.02852pt too wide) in paragraph at lines 37--41
 \OT1/cmr/m/n/10 ensuring functionality, reliability and safety of crucial mechanisms is a foundational
  []
 
 
-Overfull \hbox (3.86183pt too wide) in paragraph at lines 49--54
+Overfull \hbox (3.86183pt too wide) in paragraph at lines 53--58
 \OT1/cmr/m/n/10 for information that may be relevant for the questions outlined in the introduction
  []
 
 
-Overfull \hbox (2.02835pt too wide) in paragraph at lines 57--60
+Overfull \hbox (2.02835pt too wide) in paragraph at lines 61--66
 \OT1/cmr/m/n/10 principles and values of agile and lean where the purpose is to maximise efficiency,
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 70.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+[][]
+ []
+
 [2] [3] (main.bbl
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
+Underfull \hbox (badness 10000) in paragraph at lines 43--49
+\OT1/cmr/m/n/10 2-[]s2 . 0-[]84966570081 & doi = 10 . 1109 % 2fCGVIS . 2015 . 7449927 & partnerID =
+ []
+
 ) [4] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -192,17 +260,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F24FDC35DE1B07874475C4F9B0CEB3DA;553.
  ) 
 Here is how much of TeX's memory you used:
- 7616 strings out of 469808
- 118340 string characters out of 5471037
- 527244 words of memory out of 5000000
- 36198 multiletter control sequences out of 15000+600000
- 632004 words of font info for 54 fonts, out of 8000000 for 9000
+ 9202 strings out of 469808
+ 148425 string characters out of 5471037
+ 555097 words of memory out of 5000000
+ 37765 multiletter control sequences out of 15000+600000
+ 632303 words of font info for 55 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 75i,6n,79p,403b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/skyh1ghdev/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (4 pages, 93115 bytes).
+ 75i,10n,79p,403b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/skyh1ghdev/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on main.pdf (4 pages, 114326 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
