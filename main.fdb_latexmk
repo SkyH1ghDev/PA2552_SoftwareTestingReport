@@ -1,0 +1,39 @@
+# Fdb version 4
+["bibtex main"] 1770040473.76459 "main.aux" "main.bbl" "main" 1770040474.17575 0
+  "./refs.bib" 1770038673.49962 263 d7047b36c4cda00db361ba2b7c27cef6 ""
+  "/home/skyh1ghdev/.miktex/texmfs/install/bibtex/bst/ieeetran/IEEEtran.bst" 1770038561.15422 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
+  "main.aux" 1770040473.95893 746 bf3dc43d362dde6f5527ec30414977b3 "pdflatex"
+  (generated)
+  "main.bbl"
+  "main.blg"
+  (rewritten before read)
+["pdflatex"] 1770040473.86767 "/m2ssd/Programming/Projects/Latex/PA2552/main.tex" "main.pdf" "main" 1770040474.17586 0
+  "/home/skyh1ghdev/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1770038561.32712 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "/home/skyh1ghdev/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1769773020.22895 10131981 c32d7a83a03981997ad1ace496ea280f ""
+  "/m2ssd/Programming/Projects/Latex/PA2552/main.tex" 1770040473.12292 1081 694e6b298e364504ae8d720717d9cc34 ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm" 1769772819.83034 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm" 1769772819.83054 1524 4414a8315f39513458b80dfc63bff03a ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm" 1769772819.83056 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm" 1769772819.83059 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmr12.tfm" 1769772819.83062 1288 655e228510b4c2a1abe905c368440826 ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmr17.tfm" 1769772819.83063 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmr6.tfm" 1769772819.83065 1300 b62933e007d01cfd073f79b963c01526 ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmr8.tfm" 1769772819.83066 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm" 1769772819.83085 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm" 1769772819.83087 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "/opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm" 1769772819.83088 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1769772817.2782 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1769772817.2885 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1769772817.2889 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1769772817.28931 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/opt/miktex/texmfs/install/tex/latex/base/article.cls" 1769772826.63423 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "/opt/miktex/texmfs/install/tex/latex/base/size10.clo" 1769772826.63354 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "/opt/miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def" 1769772823.335 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "main.aux" 1770040473.95893 746 bf3dc43d362dde6f5527ec30414977b3 "pdflatex"
+  "main.bbl" 1770040473.84793 1081 799cb1fa3fe0c6bfb91e9ceba2175ced "bibtex main"
+  "main.tex" 1770040473.12292 1081 694e6b298e364504ae8d720717d9cc34 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
