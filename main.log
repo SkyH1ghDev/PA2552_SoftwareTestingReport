@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.1.30)  2 FEB 2026 22:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2026.1.30)  3 FEB 2026 00:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -181,31 +181,48 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box56
 \@float@everytoks=\toks20
 \@floatcapt=\box57
-) (/opt/miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+) (/home/skyh1ghdev/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/opt/miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count302
+\Gm@cntv=\count303
+\c@Gm@tempcnt=\count304
+\Gm@bindingoffset=\dimen176
+\Gm@wd@mp=\dimen177
+\Gm@odd@mp=\dimen178
+\Gm@even@mp=\dimen179
+\Gm@layoutwidth=\dimen180
+\Gm@layoutheight=\dimen181
+\Gm@layouthoffset=\dimen182
+\Gm@layoutvoffset=\dimen183
+\Gm@dimlist=\toks21
+ (/home/skyh1ghdev/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg)) (/opt/miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
+\l__color_backend_stack_int=\count305
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-Package hyperref Info: Link coloring OFF on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+Package hyperref Info: Link coloring OFF on input line 22.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -214,49 +231,59 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 24.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 24.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 24.
- [1
+(Font)              <6> on input line 25.
+[1
 
 {/home/skyh1ghdev/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (10.02852pt too wide) in paragraph at lines 37--41
-\OT1/cmr/m/n/10 ensuring functionality, reliability and safety of crucial mechanisms is a foundational
- []
-
-
-Overfull \hbox (9.63954pt too wide) in paragraph at lines 42--45
-\OT1/cmr/m/n/10 specifically, this report aims to questions: ``What are the most important principles
- []
-
-
-Overfull \hbox (3.86183pt too wide) in paragraph at lines 48--53
-\OT1/cmr/m/n/10 for information that may be relevant for the questions outlined in the introduction
- []
-
-
-Overfull \hbox (2.02835pt too wide) in paragraph at lines 56--61
-\OT1/cmr/m/n/10 principles and values of agile and lean where the purpose is to maximise efficiency,
+Overfull \hbox (1.4695pt too wide) in paragraph at lines 38--42
+\OT1/cmr/m/n/10 different types of metrics for a variety of use cases, some wider known types include: stress testing, performance
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 65.
+(Font)              <7> on input line 66.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 65.
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--78
-[][]
- []
-
-[2] [3] (main.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 43--49
-\OT1/cmr/m/n/10 2-[]s2 . 0-[]84966570081 & doi = 10 . 1109 % 2fCGVIS . 2015 . 7449927 & partnerID =
- []
-
-) [4] (main.aux)
+(Font)              <5> on input line 66.
+[2] [3] (main.bbl) [4] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
@@ -265,17 +292,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F24FDC35DE1B07874475C4F9B0CEB3DA;553.
  ) 
 Here is how much of TeX's memory you used:
- 9197 strings out of 469808
- 148331 string characters out of 5471037
- 556097 words of memory out of 5000000
- 37761 multiletter control sequences out of 15000+600000
+ 9685 strings out of 469808
+ 155943 string characters out of 5471037
+ 571163 words of memory out of 5000000
+ 38241 multiletter control sequences out of 15000+600000
  631968 words of font info for 54 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 75i,10n,79p,403b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,403b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on main.pdf (4 pages, 114672 bytes).
+Output written on main.pdf (4 pages, 116040 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 

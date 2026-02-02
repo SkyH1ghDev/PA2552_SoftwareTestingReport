@@ -4,6 +4,7 @@
 \usepackage{booktabs, caption}
 \usepackage[flushleft]{threeparttable}
 \usepackage{float}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
 
 \bibliographystyle{IEEEtran}
 
@@ -61,19 +62,20 @@ the central focus \cite{testsigmaLeanTesting}
 
 \begin{table}[H]
 	\caption{Lean Testing Principles}
-	\centering
-	\begin{tabular}{ | m{12em} | } 
-		\hline
-		Efficiency / Effectiveness \\
-		Minimisation \\
-		Test data generation \\
-		Execution \\
-		Maintenance \\
-		Values (-illities) \\
-		Purpose \\
-		Automation \\
-		\hline
-	\end{tabular}
+	\begin{center}
+		\begin{tabular}{ | m{12em} |} 
+			\hline
+			Efficiency / Effectiveness \\
+			Minimisation \\
+			Test data generation \\
+			Execution \\
+			Maintenance \\
+			Values (-illities) \\
+			Purpose \\
+			Automation \\
+			\hline
+		\end{tabular}
+	\end{center}
 	\begin{tablenotes}
 		\small
 		\item Table 1: Tabularised form of the reinterpreted lean testing principles (not lean principles) outlined in the PowerPoint slide 9 written by Alégroth et al. \cite{PowerPoint}
@@ -81,7 +83,7 @@ the central focus \cite{testsigmaLeanTesting}
 \end{table}
 
 A three-way case-study between waterfall, agile and agile with dynamic QC has been carried out that compared the efficacy
-of testing within these methodologies \cite{DynamicQC}. The method Tommy et al. employed in their research yielded a result
+of testing within these methodologies \cite{DynamicQC}. The method Tommy et al. \cite{DynamicQC} employed in their research yielded a result
 where the method of doing tests at the end of a production cycle (waterfall) generated a detected defect count of slightly above
 twenty. In contrast, agile and agile with dynamic QC reached counts of slightly below eighty and around a hundred and ten respectively.
 In addition to this the test case count is around one hundred for waterfall, one thousand two hundred for agile and nine hundred
@@ -100,7 +102,18 @@ How could this impact software engineering, and more importantly, how could this
 Lean testing is most applicable in larger projects, often showing minor improvements for smaller projects. However as previously stated, lean testing
 has shown to improve value-creation and customer satisfaction as a result of increase defect detections in addition to being adaptable.
 
+My perspective on the most important lean testing principle would be the principle of purpose with the main reason being that without purpose, 
+there is no need for the test. Applying this principle on a higher level also helps the efficiency, execution and automation aspects by allowing
+for the categorisation of tests. This in turn allows for test execution only for the relevant parts of a code base, further allowing independant 
+development between individuals and groups.
+
+A scenario where these principles would be especially applicable for me would be in the upcoming Large Game Project where the development process 
+will be of an agile kind. However, since our use case would be rather specific, a variety of tests could be of use. For example, engine-specific
+testing could adhere to what most would assume to be standard testing, however rendering and GUI would have to be handeled in another way.
+
 \section{Conclusions}
+
+
 
 \newpage
 

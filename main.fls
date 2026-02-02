@@ -72,6 +72,13 @@ INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/threeparttable/threepart
 INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/threeparttable/threeparttable.sty
 INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/float/float.sty
 INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/float/float.sty
+INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /opt/miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /opt/miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /home/skyh1ghdev/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
 INPUT /opt/miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /opt/miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./main.aux
