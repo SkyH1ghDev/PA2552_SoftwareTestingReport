@@ -23,6 +23,7 @@ INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT main.pdf
 INPUT /home/skyh1ghdev/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
@@ -34,6 +35,8 @@ INPUT main.bbl
 INPUT main.aux
 INPUT /home/skyh1ghdev/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
 INPUT /home/skyh1ghdev/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
+INPUT /opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /opt/miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
