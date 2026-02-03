@@ -103,8 +103,8 @@ INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /home/skyh1ghdev/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map
+INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /opt/miktex/texmfs/install/fonts/tfm/public/cm/cmr9.tfm
