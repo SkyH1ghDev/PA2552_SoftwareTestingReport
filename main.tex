@@ -18,6 +18,9 @@
 	\\
 	Contact: \\
 	chbh22@student.bth.se / student@skyh1gh.dev \\
+	\\
+	Revisions and git history: \\
+	\href{https://github.com/SkyH1ghDev/PA2552_SoftwareTestingReport}{GitHub} \\
 	}
 
 \date{\today}
@@ -47,8 +50,8 @@ requirement for any kind of development. There are multiple ways of evaluating d
 use cases, some wider known types include: stress testing, performance testing and smoke testing \cite{IBMSoftwareTesting}.
 
 The purpose of this technical report is to collect, analyse and summarise relevant information touching on the
-subject of lean software testing. More specifically, this report aims to questions: ``What are the most important principles of 
-lean'' and ``where can these principles be applied?''
+subject of lean software testing. More specifically, this report aims to questions: ``What lean testing principles are there?''
+and ``How do they relate to testing?''
 
 \section{Methodology}
 
@@ -109,18 +112,18 @@ more beneficial to test continously. Dynamic QC as defined in \cite{DynamicQC} f
 
 \section{Discussion}
 
-How could this impact software engineering, and more importantly, how could this affect me and my continued studies and projects? 
-Lean testing is most applicable in larger projects, often showing minor improvements for smaller projects. However as previously stated, lean testing
-has shown to improve value-creation and customer satisfaction as a result of increase defect detections in addition to being adaptable.
+At a broader glance, this report not only shows that lean testing can be boiled down to abstract and concrete principles, but also that the lean testing
+methodology can have a much greater impact when combating functional defects in projects. What are the implications of these findings? It can can be argued that
+the importance of these principles provide a general and usable framework that speeds up the process by for example extracting the purpose of the testing. This can
+be further linked to the ideas of practicing continuous improvement through test assessment and usability. Additionally, by keeping it simple, a layer of 
+assessment criteria can be derived that try to weed out unnecessarily large and complex tests that don't perform as good as they potentially could.
 
-My perspective on the most important lean testing principle would be the principle of purpose with the main reason being that without purpose, 
-there is no need for the test. Applying this principle on a higher level also helps the efficiency, execution and automation aspects by allowing
-for the categorisation of tests. This in turn allows for test execution only for the relevant parts of a code base, further allowing independant 
-development between individuals and groups.
-
-A scenario where these principles would be especially applicable for me would be in the upcoming Large Game Project where the development process 
-will be of an agile kind. However, since our use case would be rather specific, a variety of tests could be of use. For example, engine-specific
-testing could adhere to what most would assume to be standard testing, however rendering and GUI would have to be handeled in another way.
+These patterns can be recognized in, for instance, unit testing. A unit test, as commonly known, should be small and simple in order to test a smaller unit of a large
+codebase. Keeping it simple is fairly self-explanatory as unit tests should encompass simpler units and problems. However, depending on the team that has been organised,
+the approach to the writing of the tests may be varying. In our small game test, our approach to unit testing was the usage of the Google Test framework where each person 
+each had the responsibility of covering their own code. This way of testing required us not only to enable face-to-face communication, but also forced us to have courage 
+and put the breaks on the project if the tests didn't satisfy our definition of done. The result of this was having to respond to change as sometimes test cases broke,
+and certain discussions had to be held on how certain mechanics should work and why.
 
 \section{Conclusions}
 
